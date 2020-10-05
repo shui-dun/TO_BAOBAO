@@ -1,0 +1,16 @@
+.vs
+*.tlog
+*.obj
+RCa15148
+*.iobj
+*.ipdb
+*.log
+*.pdb
+*.res
+*.vcxproj.FileListAbsolute.txt
+*.APS
+*.rc
+*.sln
+*.vcxproj
+*.filters
+*.user
