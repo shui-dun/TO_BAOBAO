@@ -4,5 +4,7 @@
 
 ## 演示
 
-<video src="assets/TO_BAOBAO_cs8RvvMFfT.mp4"></video>
+![image-20230813224819607](assets/image-20230813224819607.png)
+
+视频演示请参见[演示视频](assets/TO_BAOBAO_cs8RvvMFfT.mp4)
 
